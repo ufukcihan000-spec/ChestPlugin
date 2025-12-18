@@ -1,0 +1,6 @@
+allowed-worlds:
+  - world
+  - world_nether
+  - mini
+
+slots: 54
