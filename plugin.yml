@@ -1,0 +1,7 @@
+name: ChestPlugin
+version: 1.0
+main: me.chestplugin.ChestPlugin
+api-version: 1.21
+commands:
+  chest:
+    description: Kişisel sandığını açar
