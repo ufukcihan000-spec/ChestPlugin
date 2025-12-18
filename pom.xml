@@ -10,7 +10,6 @@
     <java.version>17</java.version>
   </properties>
 
-  <!-- 🔴 EKSİK OLAN BUYDU -->
   <repositories>
     <repository>
       <id>papermc</id>
